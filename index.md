@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -19,7 +18,7 @@
             };
             window.logs.pagetime['html_begin'] = (+new Date());
         </script>
-        <title>
+<title>
  想要实现自动化收入吗？来，看看这个机会怎么样？
 </title>
         
