@@ -23,7 +23,7 @@
 <p style="white-space: normal; text-align: center;"></p>
 <p style="margin-top: 0.5em; margin-bottom: 0.5em; white-space: normal; line-height: inherit; color: #222222; font-family: sans-serif; font-size: 15.008px; text-align: left; background-color: #ffffff;"><span style="font-size: 15px; color: #d92142;">播放视频：带你了解安利公司的产品技术实力！</span></p>
 <p style="white-space: normal; text-align: left;"></p>
-<p style="white-space: normal; text-align: left;"><span style="font-size: 18px;">点击右边了解：</span><a href="http://mp.weixin.qq.com/s?__biz=MzI1OTY4MDAzNA==&amp;mid=2247484809&amp;idx=2&amp;sn=f7ee2b245e50a144dc10a3e744627915&amp;chksm=ea7477c4dd03fed28ea8a292c050e141bdf63d3aded4f227287e67a9c429f4ab0646f2c5a10f&amp;scene=21#wechat_redirect" target="_blank" style="color: #007aaa; text-decoration: underline; font-size: 18px;" rel="noopener noreferrer">如何通过微信申请成为安利(中国)的会员？</a></p>
+<p style="white-space: normal; text-align: left;"><span style="font-size: 18px;">点击右边了解：</span><a href="https://mp.weixin.qq.com/s/SoubDYuD_ZSBpTNIgAwAQQ" target="_blank" style="color: #007aaa; text-decoration: underline; font-size: 18px;" rel="noopener noreferrer">想要实现自动化收入吗？来，看看这个机会怎么样？</a></p>
   
 
 <p style="white-space: normal; text-align: left;"><span style="color: #d92142;"><strong>注意：</strong></span>这个生意可以说几乎没有门槛，只需要70元即可代理加盟(<span style="color: #d92142;"><span style="font-size: 15px;">而且这</span><span style="font-size: 15px;">70元是可用于消费抵扣的</span></span>)，<span style="color: #d92142;">且无需囤货、无需进货、无需发货、无需收款，不占用你一分钱资金，让你毫无资金压力。</span></p>
