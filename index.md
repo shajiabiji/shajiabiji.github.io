@@ -46,9 +46,10 @@
 <p><img class="" src="https://www.shajiabiji.com/wp-content/uploads/2019/03/%E5%AE%89%E5%88%A98-1552066293.jpeg" alt="如何通过微信申请成为安利(中国)的会员？" title="如何通过微信申请成为安利(中国)的会员？" /></p>
 <p style="white-space: normal; max-width: 100%; min-height: 1em; letter-spacing: 0.544px; font-size: 16px; color: #3e3e3e; background-color: #ffffff; text-align: left; box-sizing: border-box !important; overflow-wrap: break-word !important;"><span style="max-width: 100%; color: #007aaa; font-size: 15px; box-sizing: border-box !important; overflow-wrap: break-word !important;">（注册过程中有任何疑问</span><span style="max-width: 100%; color: #007aaa; box-sizing: border-box !important; overflow-wrap: break-word !important;">，</span><span style="max-width: 100%; color: #007aaa; font-size: 15px; box-sizing: border-box !important; overflow-wrap: break-word !important;">请添加微信号：<strong>Bruce1934</strong> 为您指导）</span></p>
 <p style="margin-top: 0.5em;margin-bottom: 0.5em;white-space: normal;line-height: inherit;color: rgb(34, 34, 34);font-family: sans-serif;font-size: 15.008px;text-align: left;background-color: rgb(255, 255, 255);"><span style="font-size: 15px;color: rgb(217, 33, 66);">播放视频：带你了解安利公司的品牌实力！</span></p><p>
+  <span style="font-size: 18px;">点击右边了解：</span><a href="https://mp.weixin.qq.com/s/SoubDYuD_ZSBpTNIgAwAQQ" target="_blank" style="color: #007aaa; text-decoration: underline; font-size: 18px;" rel="noopener noreferrer">带你了解安利公司的品牌实力！</a></p>
   
 <p style="white-space: normal;text-align: left;"><span style="background-color: rgb(255, 255, 255);color: rgb(217, 33, 66);font-family: sans-serif;font-size: 15px;">播放视频：互联网时代不一样的安利 你知道吗？</span><br  /></p>
-
+<span style="font-size: 18px;">点击右边了解：</span><a href="https://mp.weixin.qq.com/s/SoubDYuD_ZSBpTNIgAwAQQ" target="_blank" style="color: #007aaa; text-decoration: underline; font-size: 18px;" rel="noopener noreferrer">互联网时代不一样的安利 你知道吗？</a></p>
 <p style="white-space: normal;">
 
 </p>
