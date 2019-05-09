@@ -23,7 +23,9 @@
 <p style="white-space: normal; text-align: center;"></p>
 <p style="margin-top: 0.5em; margin-bottom: 0.5em; white-space: normal; line-height: inherit; color: #222222; font-family: sans-serif; font-size: 15.008px; text-align: left; background-color: #ffffff;"><span style="font-size: 15px; color: #d92142;">播放视频：带你了解安利公司的产品技术实力！</span></p>
 <p style="white-space: normal; text-align: left;"></p>
-<p><iframe class="video_iframe rich_pages" data-vidtype="2" data-mpvid="wxv_750181522271010816" data-cover="http%3A%2F%2Fmmbiz.qpic.cn%2Fmmbiz_jpg%2Fcqj7aHiaMfibyhvFNX1iaiabCjZMSrNrzibgMsWDXHn5icqETX8iacaavPGuesiaJgalicv5BlpY1ohcGiaRko8vCxGKfSwQ%2F0%3Fwx_fmt%3Djpeg" allowfullscreen="" frameborder="0" data-ratio="1.7777777777777777" data-w="1280" data-src="https://mp.weixin.qq.com/mp/readtemplate?t=pages/video_player_tmpl&amp;action=mpvideo&amp;auto=0&amp;vid=wxv_750181522271010816"></iframe></p>
+<p</p>
+  
+
 <p style="white-space: normal; text-align: left;"><span style="color: #d92142;"><strong>注意：</strong></span>这个生意可以说几乎没有门槛，只需要70元即可代理加盟(<span style="color: #d92142;"><span style="font-size: 15px;">而且这</span><span style="font-size: 15px;">70元是可用于消费抵扣的</span></span>)，<span style="color: #d92142;">且无需囤货、无需进货、无需发货、无需收款，不占用你一分钱资金，让你毫无资金压力。</span></p>
 <p style="white-space: normal; text-align: left;"></p>
 <p style="white-space: normal; text-align: left;"><span style="color: #d92142;">因此可以说没有任何风险，一切后台工作由【<strong>安利公司代发+微信支付+京东物流</strong>】帮我们全部搞定，这里全都是品牌商家，信誉有保障，让我们的顾客安心购货 ，享受一流的服务保障！</span></p>
